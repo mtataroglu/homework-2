@@ -1,0 +1,5 @@
+
+Git'i ilk defa kurğduğunda kendini tanıtman gerekiyo
+
+git config user.name "Mustafa Tataroglu"
+git config user.email "mustataroglu.40@gmail.com"
